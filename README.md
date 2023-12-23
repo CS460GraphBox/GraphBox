@@ -1,6 +1,6 @@
 # GraphBox
 
-Welcome to the best game ever created on Roblox!
+### Welcome to the best game ever created on Roblox!
 
 ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/b1f99537-e7b0-465a-afa4-16a55413828c)
 
