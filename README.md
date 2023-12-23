@@ -41,7 +41,7 @@ To access this game, create an account in Roblox. If you would like to play the 
 
 
 ## Future Improvements
-The team acknowledges that there are improvements to be done in the game, as we expand this game to all Roblox players. 
+The team acknowledges that there are improvements to be made in the game, as we expand this game to all Roblox players. 
 
 For BoxDash, we have a few ideas. First, we would like to implement a leaderboard for multi-player lobbies. Imagine playing BoxDash with your friends in a race for the fastest time through all three levels. Another interesting concept is the idea of a relay race. For example, for a team of three players, each player would complete one of the levels and the time to complete all three levels would be combined.
 
@@ -50,4 +50,4 @@ For GObby, the first improvement the team would make is to create a leaderboard 
 ## Authors and acknowledgment
 Thanks to Linda Do, Allyson Ochoa, Brendan Nguyen, and Wilhen Alberto Hui Mei for contributing to this CS460 - Computer Graphics project, here at the University of Massachusetts Boston. We applied everything we learned in this course into this project, such as lighting manipulation, camera positioning, implementing tools such as models Blender to create graphical, Roblox Studio, and many more. Special thanks to Professor Daniel Haehn for giving us the idea to implement this game in Roblox, and for guiding us to continually improving as a developer. Can't forget the CS460 staff! Thank you guys for everything! 
 
-Overall, we'd like to thank the Roblox community for providing models and scripts that are open-source and ready to be used by developers. The scripts mostly come from tutorial YouTube videos and from Roblox forums that have people help resolve common bugs and problems (similar to StackOverflow). Most of the credits go to the following YouTubers: AlvinBlox
+Overall, we'd like to thank the Roblox community for providing models and scripts that are open-source and ready to be used by developers. The scripts mostly come from tutorial YouTube videos and from Roblox forums that have people help resolve common bugs and problems (similar to StackOverflow). Most of the credits go to the following YouTubers: AlvinBlox, and coolcapidog
