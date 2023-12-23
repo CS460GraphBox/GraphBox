@@ -2,8 +2,10 @@
 
 Welcome to the best game ever created on Roblox!
 
+![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/b1f99537-e7b0-465a-afa4-16a55413828c)
+
 ## Description
-GraphBox is a game that consists of 2 custom games based on Obby and Geometry Dash, GObby and BoxDash respectively. This game will also allow you to choose to play as one of five characters: any of the GraphBox team members or Professor Daniel Haehn, from University of Massachusetts Boston. There is also a Christmas-themed lobby from which you can enter portals to enter any of the two games.
+GraphBox is a game that consists of 2 custom games based on Obby and Geometry Dash, GObby, and BoxDash respectively. This game will also allow you to choose to play as one of five characters: any of the GraphBox team members or Professor Daniel Haehn, from the University of Massachusetts Boston. There is also a Christmas-themed lobby from which you can enter portals to enter any of the two games.
 
 Beware of where you jump in GObby, or else you will fall out of the sky and plummet to your demise.
 
@@ -33,7 +35,7 @@ Once you have installed Roblox Studio, you will be able to access the game files
 
 To access this game, create an account in Roblox. If you would like to play the map on Roblox, click on the link below.
 
-[link here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[link here](https://www.roblox.com/games/15426355879/)
 
 
 ## Visuals
