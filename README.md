@@ -41,6 +41,8 @@ To access this game, create an account in Roblox. If you would like to play the 
 
 ## Visuals
 Piskel was used for drawing the sprites. Piskel is a free online editor for animated sprites and pixel art. It is a simple web-based tool for making sprites and pixel art that allows you to create pixel art, game sprites, and animated GIFs.
+
+
 ![curly hair Ally ](https://github.com/CS460GraphBox/GraphBox/assets/144291196/894bf220-3bb5-417b-aac8-d5f7e4a357fc)
 ![Haehn](https://github.com/CS460GraphBox/GraphBox/assets/144291196/24f4063f-bae0-43bf-99b9-67250fdedc34)
 ![alberto](https://github.com/CS460GraphBox/GraphBox/assets/144291196/5a69cdec-bace-47a6-8587-532721fc5a13)
