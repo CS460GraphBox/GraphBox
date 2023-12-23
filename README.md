@@ -37,10 +37,11 @@ To access this game, create an account in Roblox. If you would like to play the 
 # Visuals
 ## Sprites
 ![Haehn (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/0c660cf8-24e1-4ee1-a3ec-af39b8b44904)
-![Curly Hair Ally (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/6844cf76-100c-4db3-8eda-8e750274147d)
+![curly ally (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/13f95fea-dbdd-4abd-932f-3dc512c3c363)
 ![alberto (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/dae51793-e977-4a63-b71e-8daae414a2b0)
 ![brendan (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/62dafb73-dc1c-4f3c-8e7a-7233942036cb)
-![linda (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/34cca7bb-1764-461c-9922-36f9231d057f)
+![linda (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/cbc9e918-f223-42f9-a942-bd2bb337c9c3)
+
 
 ## Lobby
 ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/2ff6b5a0-3c0a-4bcc-b8dc-d273ca895d10)
