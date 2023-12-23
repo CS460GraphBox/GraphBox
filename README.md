@@ -40,6 +40,13 @@ To access this game, create an account in Roblox. If you would like to play the 
 
 ## Visuals
 
+![Curly Hair Ally](https://github.com/CS460GraphBox/GraphBox/assets/144291196/adbd4b3a-21f9-4b18-80df-7069bd6ad18a)
+![Haehn](https://github.com/CS460GraphBox/GraphBox/assets/144291196/24f4063f-bae0-43bf-99b9-67250fdedc34)
+![alberto](https://github.com/CS460GraphBox/GraphBox/assets/144291196/5a69cdec-bace-47a6-8587-532721fc5a13)
+![brendan](https://github.com/CS460GraphBox/GraphBox/assets/144291196/2ee2dd87-3b9f-4640-9b4b-4f309baec298)
+![linda](https://github.com/CS460GraphBox/GraphBox/assets/144291196/7af2466e-3883-4851-a810-b1142edddfbf)
+
+
 
 
 ## Future Improvements
