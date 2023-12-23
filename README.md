@@ -87,6 +87,8 @@ Thanks to:
 - Brendan Nguyen for designing and implementing BoxDash, while adding difficulty to each level with scripts, and
 - Wilhen Alberto Hui Mei for creating the lobby and making sure that the portals and teleports worked properly, and helped with writing scripts in both games.
 
-We all contributed to this CS460 - Computer Graphics project, here at the University of Massachusetts Boston. We applied everything we learned in this course to this project, such as lighting manipulation, camera positioning, implementing tools such as Blender to create graphical models, Roblox Studio, and many more. Special thanks to Professor Daniel Haehn for giving us the idea to implement this game in Roblox, and for guiding us to continually improving as a developer. Can't forget the CS460 staff! Thank you guys for everything! 
+We all contributed to this CS460 - Computer Graphics project, here at the University of Massachusetts Boston. Here's the link to the course website: [CS460.org](https://cs460.org/). 
+
+We applied everything we learned in this course to this project, such as lighting manipulation, camera positioning, implementing tools such as Blender to create graphical models, Roblox Studio, and many more. Special thanks to Professor Daniel Haehn for giving us the idea to implement this game in Roblox, and for guiding us to continually improving as a developer. Can't forget the CS460 staff! Thank you guys for everything! 
 
 Overall, we'd like to thank the Roblox community for providing models and scripts that are open-source and ready to be used by developers. The scripts mostly come from tutorial YouTube videos and from Roblox Developer forums that have people help resolve common bugs and problems (similar to StackOverflow). Most of the credits go to the following YouTubers: AlvinBlox, Pandastroyer, Thinknoodles, WillTango, coolcapidog, and many more.
