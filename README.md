@@ -7,7 +7,7 @@
 # Description
 GraphBox is a game that consists of 2 custom games based on Obby and Geometry Dash, GObby! and BoxDash respectively. This game will also allow you to choose to play as one of five characters: any of the GraphBox team members or Professor Daniel Haehn, from the University of Massachusetts Boston. There is also a Christmas-themed lobby from which you can enter portals to enter any of the two games.
 
-Beware of where you jump in GObby, or else you will fall out of the sky and plummet to your demise.
+Beware of where you jump in GObby!, or else you will fall out of the sky and plummet to your demise.
 
 Beware of where you land in BoxDash, the lava will set you on fire and meet your demise.
 
