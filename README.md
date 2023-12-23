@@ -69,7 +69,7 @@ The team acknowledges that there are improvements to be made in the game, as we 
 
 For BoxDash, we have a few ideas. First, we would like to implement a leaderboard for multi-player lobbies. Imagine playing BoxDash with your friends in a race for the fastest time through all three levels. Another interesting concept is the idea of a relay race. For example, for a team of three players, each player would complete one of the levels and the time to complete all three levels would be combined.
 
-For GObby!, the first improvement the team would make is to create a leaderboard similar to how the BoxDash one would work. Additionally, we would like to create more maps and provide the ability for players to choose a map to play.
+As for GObby!, the first improvement the team would make is to create a leaderboard similar to how the BoxDash one would work. Additionally, we would like to create more maps and provide the ability for players to choose a map to play.
 
 # Common problems and solutions
 1. <b>Q:</b> When I press SHIFT to attempt to run, I'm slower. How do I fix that?
