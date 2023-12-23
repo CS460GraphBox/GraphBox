@@ -38,9 +38,9 @@ To access this game, create an account in Roblox. If you would like to play the 
 [link here](https://www.roblox.com/games/15426355879/)
 
 
-## Visuals
 
-![Curly Hair Ally](https://github.com/CS460GraphBox/GraphBox/assets/144291196/adbd4b3a-21f9-4b18-80df-7069bd6ad18a)
+## Visuals
+![curly hair Ally ](https://github.com/CS460GraphBox/GraphBox/assets/144291196/894bf220-3bb5-417b-aac8-d5f7e4a357fc)
 ![Haehn](https://github.com/CS460GraphBox/GraphBox/assets/144291196/24f4063f-bae0-43bf-99b9-67250fdedc34)
 ![alberto](https://github.com/CS460GraphBox/GraphBox/assets/144291196/5a69cdec-bace-47a6-8587-532721fc5a13)
 ![brendan](https://github.com/CS460GraphBox/GraphBox/assets/144291196/2ee2dd87-3b9f-4640-9b4b-4f309baec298)
