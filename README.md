@@ -32,9 +32,7 @@ Once you have installed Roblox Studio, you will be able to access the game files
 
 # Usage
 
-To access this game, create an account in Roblox. If you would like to play the map on Roblox, click on the link below.
-
-[roblox.com/games/15426355879/](https://www.roblox.com/games/15426355879/)
+To access this game, create an account in Roblox. If you would like to play the map on Roblox, click on the link: [roblox.com/games/15426355879/](https://www.roblox.com/games/15426355879/)
 
 # Visuals
 ## Sprites
@@ -74,11 +72,14 @@ For BoxDash, we have a few ideas. First, we would like to implement a leaderboar
 For GObby!, the first improvement the team would make is to create a leaderboard similar to how the BoxDash one would work. Additionally, we would like to create more maps and provide the ability for players to choose a map to play.
 
 # Common problems and solutions
-1. Q: When I press SHIFT to attempt to run, I'm slower. How do I fix that?
-   A: Click <b>ESC</b> on your keyboard to open <b>Settings</b>. On <b>Shift Lock Switch</b>, switch it to <b>Off</b>, and it should work now.
+1. <b>Q:</b> When I press SHIFT to attempt to run, I'm slower. How do I fix that?
+
+   <b>A:</b> Click <b>ESC</b> on your keyboard to open <b>Settings</b>. On <b>Shift Lock Switch</b>, switch it to <b>Off</b>, and it should work now.
    ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/afb5c3d9-4ad4-4496-a911-0a8608876855)
-2. Q: When I'm in 1st person POV, I cannot move my mouse to click on <b>Return</b> or any buttons to return to the lobby. Is there a setting to move the mouse?
-   A: When you're in one of the levels in BoxDash, it is supposed to be played in 1st person POV, and that can't be changed for better playability. However, if you're about to enter the level, right before you see the text sign, you're given the option to zoom out with your mouse wheel and you have control over your cursor to            return to the lobby or perform other actions. It is one of Roblox's settings to disable cursor movement when the player is in 1st person POV.
+
+2. <b>Q:</b> When I'm in 1st person POV, I cannot move my mouse to click on <b>Return</b> or any buttons to return to the lobby. Is there a setting to move the mouse?
+
+   <b>A:</b> When you're in one of the levels in BoxDash, it is supposed to be played in 1st person POV, and that can't be changed for better playability. However, if you're about to enter the level, right before you see the text sign, you're given the option to zoom out with your mouse wheel and you have control over your cursor               to return to the lobby or perform other actions. It is one of Roblox's settings to disable cursor movement when the player is in 1st person POV.
 
 # Authors and acknowledgment
 Thanks to: 
