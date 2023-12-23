@@ -46,9 +46,6 @@ To access this game, create an account in Roblox. If you would like to play the 
 ![linda](https://github.com/CS460GraphBox/GraphBox/assets/144291196/59c89565-19a7-4010-a5e8-efd82a4390e5)
 
 
-
-
-
 ## Lobby
 ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/2ff6b5a0-3c0a-4bcc-b8dc-d273ca895d10)
 
@@ -76,6 +73,13 @@ For BoxDash, we have a few ideas. First, we would like to implement a leaderboar
 
 For GObby!, the first improvement the team would make is to create a leaderboard similar to how the BoxDash one would work. Additionally, we would like to create more maps and provide the ability for players to choose a map to play.
 
+# Common problems and solutions
+1. Q: When I press SHIFT to attempt to run, I'm slower. How do I fix that?
+   A: Click <b>ESC</b> on your keyboard to open <b>Settings</b>. On <b>Shift Lock Switch</b>, switch it to <b>Off</b>, and it should work now.
+   ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/afb5c3d9-4ad4-4496-a911-0a8608876855)
+2. Q: When I'm in 1st person POV, I cannot move my mouse to click on <b>Return</b> or any buttons to return to the lobby. Is there a setting to move the mouse?
+   A: When you're in one of the levels in BoxDash, it is supposed to be played in 1st person POV, and that can't be changed for better playability. However, if you're about to enter the level, right before you see the text sign, you're given the option to zoom out with your mouse wheel and you have control over your cursor to            return to the lobby or perform other actions. It is one of Roblox's settings to disable cursor movement when the player is in 1st person POV.
+
 # Authors and acknowledgment
 Thanks to: 
 - Linda Do for helping with the character sprites and models, and scripts to ensure character swap, allowing the users to play with different characters,
@@ -83,6 +87,6 @@ Thanks to:
 - Brendan Nguyen for designing and implementing BoxDash, while adding difficulty to each level with scripts, and
 - Wilhen Alberto Hui Mei for creating the lobby and making sure that the portals and teleports worked properly, and helped with writing scripts in both games.
 
-We all contributed to this CS460 - Computer Graphics project, here at the University of Massachusetts Boston. We applied everything we learned in this course into this project, such as lighting manipulation, camera positioning, implementing tools such as Blender to create graphical models, Roblox Studio, and many more. Special thanks to Professor Daniel Haehn for giving us the idea to implement this game in Roblox, and for guiding us to continually improving as a developer. Can't forget the CS460 staff! Thank you guys for everything! 
+We all contributed to this CS460 - Computer Graphics project, here at the University of Massachusetts Boston. We applied everything we learned in this course to this project, such as lighting manipulation, camera positioning, implementing tools such as Blender to create graphical models, Roblox Studio, and many more. Special thanks to Professor Daniel Haehn for giving us the idea to implement this game in Roblox, and for guiding us to continually improving as a developer. Can't forget the CS460 staff! Thank you guys for everything! 
 
 Overall, we'd like to thank the Roblox community for providing models and scripts that are open-source and ready to be used by developers. The scripts mostly come from tutorial YouTube videos and from Roblox Developer forums that have people help resolve common bugs and problems (similar to StackOverflow). Most of the credits go to the following YouTubers: AlvinBlox, Pandastroyer, Thinknoodles, WillTango, coolcapidog, and many more.
