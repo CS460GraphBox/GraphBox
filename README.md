@@ -36,13 +36,11 @@ To access this game, create an account in Roblox. If you would like to play the 
 
 # Visuals
 ## Sprites
-
-![Haehn](https://github.com/CS460GraphBox/GraphBox/assets/144291196/caefc5e3-fdd7-49b3-8020-76386b97eaf5)
-![alberto](https://github.com/CS460GraphBox/GraphBox/assets/144291196/c1112103-d9c2-4fa6-a881-29f8e5cebe51)
-![brendan](https://github.com/CS460GraphBox/GraphBox/assets/144291196/3312c6b8-3535-4701-a9ac-67f8b41ca1fb)
-![Curly Hair Ally](https://github.com/CS460GraphBox/GraphBox/assets/144291196/7faf092d-c05e-4267-8375-0a0dbdd7561d)
-![linda](https://github.com/CS460GraphBox/GraphBox/assets/144291196/59c89565-19a7-4010-a5e8-efd82a4390e5)
-
+![Haehn (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/0c660cf8-24e1-4ee1-a3ec-af39b8b44904)
+![Curly Hair Ally (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/6844cf76-100c-4db3-8eda-8e750274147d)
+![alberto (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/dae51793-e977-4a63-b71e-8daae414a2b0)
+![brendan (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/62dafb73-dc1c-4f3c-8e7a-7233942036cb)
+![linda (128x256)](https://github.com/CS460GraphBox/GraphBox/assets/144291196/34cca7bb-1764-461c-9922-36f9231d057f)
 
 ## Lobby
 ![image](https://github.com/CS460GraphBox/GraphBox/assets/92064680/2ff6b5a0-3c0a-4bcc-b8dc-d273ca895d10)
